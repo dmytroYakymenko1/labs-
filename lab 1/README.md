@@ -2,7 +2,7 @@
 
 ## Скріншоти
 
-![Screenshot 1](media/Screenshot 2026-06-22 082550.png)
+![Screenshot 1](media/Screensho%202026-06-22%20082550.png)
 ![Screenshot 2](media/Screenshot 2026-06-23 085323.png)
 ![Screenshot 3](media/Screenshot 2026-06-23 085338.png)
 ![Screenshot 4](media/Screenshot 2026-06-23 090238.png)
